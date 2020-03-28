@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Sat, 28 Mar 2020 20:20:13 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Mar 2020 20:23:24 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -137,7 +137,7 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 		<link>http://localhost/aicoutos/?p=4</link>
 				<pubDate>Sat, 21 Sep 2019 13:40:16 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
+				<category><![CDATA[Linux]]></category>
 
 		<guid isPermaLink="false">http://root.local/?p=4</guid>
 				<description><![CDATA[Acompanhar as versões do PHP, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar. Abaixo uma tabela atualizada com as versões do PHP no Linux Mint e Ubuntu: Linux Mint[1] Data[2]... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=4"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
@@ -260,7 +260,7 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 		<link>http://localhost/aicoutos/?p=134</link>
 				<pubDate>Thu, 25 Jul 2019 20:47:19 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
+				<category><![CDATA[Linux]]></category>
 
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=134</guid>
 				<description><![CDATA[O GNU Screen [1] é um software livre multiplexador de terminais VT100 [2]. Ele possui o recurso de persistir a sessão mesmo após a conexão ser encerrada. O Screen é útil caso você precise executar uma tarefa demorada em seu servidor mas não precisa acompanhar a execução dela remotamente. Como... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=134"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
@@ -299,7 +299,7 @@ ser encerrada.</p>
 		<link>http://localhost/aicoutos/?p=136</link>
 				<pubDate>Mon, 10 Jun 2019 01:18:29 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
+				<category><![CDATA[Linux]]></category>
 
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=136</guid>
 				<description><![CDATA[Encadeamentos ou pipelines são conjuntos de processos em sequência (conexões), de forma que a saída (stdout) de um processo é utilizada como entrada (stdin) do processo seguinte. Elas funcionam como um trem bala que acelera entre um número reduzido de paradas para chegar mais rapidamente ao seu destino. Tipicamente, utiliza-se... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=136"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
@@ -394,7 +394,7 @@ c</code></p>
 		<link>http://localhost/aicoutos/?p=138</link>
 				<pubDate>Wed, 27 Mar 2019 01:36:46 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
+				<category><![CDATA[Linux]]></category>
 
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=138</guid>
 				<description><![CDATA[Para poupar uma grana você pode transferir o seu domínio para outro serviço de registro que possua uma taxa de transferência menor que a sua taxa de renovação atual. Sites como o tld-list.com ajudam a encontrar os melhores preços para registro e transferência de domínios. Como transferir um domínio em... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=138"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>

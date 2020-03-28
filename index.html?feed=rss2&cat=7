@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Anderson Ismael &#8211; Anderson Ismael</title>
-	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;author=1" rel="self" type="application/rss+xml" />
+	<title>Linux &#8211; Anderson Ismael</title>
+	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;cat=7" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
 	<lastBuildDate>Sat, 28 Mar 2020 20:23:24 +0000</lastBuildDate>
@@ -20,119 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
-		<title>Pugs Not Drugs</title>
-		<link>http://localhost/aicoutos/?p=111</link>
-				<pubDate>Sat, 28 Mar 2020 12:42:33 +0000</pubDate>
-		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
-
-		<guid isPermaLink="false">http://root.local/?p=111</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[
-<figure class="wp-block-image size-large"><img src="http://root.local/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" title="Pugs Not Drugs" alt="Pugs Not Drugs" class="wp-image-87" srcset="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png 625w, http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized-234x300.png 234w, http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized-117x150.png 117w" sizes="(max-width: 625px) 100vw, 625px" /></figure>
-
-
-
-<p></p>
-]]></content:encoded>
-										</item>
-		<item>
-		<title>As três principais visões científicas</title>
-		<link>http://localhost/aicoutos/?p=122</link>
-				<pubDate>Fri, 04 Oct 2019 13:29:07 +0000</pubDate>
-		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
-
-		<guid isPermaLink="false">http://localhost/aicoutos/?p=122</guid>
-				<description><![CDATA[As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1]. A terceira foi adicionada por mim. Empirismo estrito Trabalha com simulações [2] utilizando dados empíricos [3] através da memória retrospectiva [4] A posteriori [8] é o conhecimento ou justificação... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
-								<content:encoded><![CDATA[
-<p>As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1]. A terceira foi adicionada por mim.</p>
-
-
-
-<h2>Empirismo estrito</h2>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/arquiteto.jpg" alt="" class="wp-image-130"/><figcaption>Arquiteto</figcaption></figure></div>
-
-
-
-<p>Trabalha com simulações [2] utilizando dados empíricos [3] através da memória retrospectiva [4]</p>
-
-
-
-<p>A posteriori [8] é o conhecimento ou justificação dependente de 
-experiência ou evidência empírica, ou seja, depende de o objeto do qual 
-será retirado o conhecimento esteja disposto aos meus sentidos, o 
-individuo precisa ver, ou sentir, ou tocar, para, a partir dessa 
-premissa, começar o raciocínio. Um exemplo de conhecimento a posteriori 
-seria a indagação &#8220;qual é o efeito da lactose em um indivíduo 
-intolerante?&#8221;. Pode-se perceber que esse questionamento não pode ser 
-respondido sem pesquisas científicas, sendo necessário realizar testes 
-com lactose em um indivíduo intolerante para conhecer os efeitos e 
-responder à questão.</p>
-
-
-
-<p>A lógica dedutiva (raciocínio dedutivo) estuda a relação de 
-consequência, ou seja, as estuda aquelas inferências válidas feitas a 
-partir de premissas ou hipóteses verdadeiras obtendo conclusões 
-verdadeiras (deduções) [9], do geral para o particular [10].</p>
-
-
-
-<h2>Fenomenologia prospectiva</h2>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/oraculo.jpg" alt="" class="wp-image-131"/><figcaption>Oráculo</figcaption></figure></div>
-
-
-
-<p>Trabalha com simulacros [2] utilizando a intuição (fenomenologia [5])
- para fazer projeções futuras (futurologia [6]) através da memória 
-prospectiva [7]</p>
-
-
-
-<p>A priori [8] é o conhecimento ou justificação independente da 
-experiência (por exemplo, &#8220;Todos os solteiros não são casados​​&#8221;). Galen
- Strawson afirmou que um argumento a priori é aquele em que &#8220;você pode 
-ver que é verdadeiro apenas deitado em seu sofá. Você não tem que se 
-levantar do seu sofá e sair para examinar a forma como as coisas no 
-mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
-
-
-
-<p>A lógica indutiva (raciocínio indutivo) estuda as inferências  prováveis, por exemplo: 80% dos candidatos votarão no candidato X,  portando o candidato X deverá ganhar as eleições [9].</p>
-
-
-
-<h2>Lógica difusa</h2>
-
-
-
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/smith-and-neo.jpg" alt="" class="wp-image-132"/><figcaption>Agente Smith e Neo</figcaption></figure></div>
-
-
-
-<p>Charles Sanders Peirce afirmou que o verdadeiro raciocínio do cientista empírico é o raciocínio abdutivo. Segundo Peirce o papel do cientista empírico é abstrair dos fenômenos e das observações certas hipóteses de trabalho, sendo assim como um raciocínio dedutivo ao contrário partindo das induções (probabilidades) como base para o desenvolvimento de suas teorias [9]. A abdução estabelece a probabilidade da conclusão da inferência e não necessariamente a sua verdade [11].</p>
-
-
-
-<p>A lógica difusa ou lógica fuzzy é a forma de lógica multivalorada, na qual os valores de verdade das variáveis podem ser qualquer número real entre 0 (correspondente ao valor falso) e 1 (correspondente ao valor verdadeiro), diferentemente do que se verifica na lógica booleana (também chamada, às vezes, lógica nítida), segundo a qual os valores lógicos podem ser apenas 0 ou 1.  [12]</p>
-
-
-
-<p><strong>Fontes:</strong></p>
-
-
-
-<ol><li> <a rel="noreferrer noopener" target="_blank" href="https://youtu.be/OmZnhKe_PXw?t=3107"> Varginha, as duas faces do ET (Documentário completo) </a>             </li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Simulacros_e_Simula%C3%A7%C3%A3o"> https://pt.wikipedia.org/wiki/Simulacros_e_Simulação </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Empirismo">          https://pt.wikipedia.org/wiki/Empirismo </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Retrospective_memory">          https://en.wikipedia.org/wiki/Retrospective_memory </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Fenomenologia">          https://pt.wikipedia.org/wiki/Fenomenologia </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Futurologia">          https://pt.wikipedia.org/wiki/Futurologia </a>             </li><li> <a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Prospective_memory">          https://en.wikipedia.org/wiki/Prospective_memory </a> </li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori"> https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori </a>             </li><li> <a rel="noreferrer noopener" href="https://youtu.be/LxhOLJLuNcY" target="_blank"> A Lógica como ciência do raciocínio | Itala M. L. D&#8217;Ottaviano | TEDxUnicamp </a> </li><li> <a rel="noreferrer noopener" href="http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html" target="_blank"> http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html </a> </li><li> <a rel="noreferrer noopener" href="https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica)" target="_blank"> https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica) </a> </li><li><a href="https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa">https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa</a></li></ol>
-]]></content:encoded>
-										</item>
-		<item>
 		<title>Versões do PHP no Linux Mint e Ubuntu</title>
 		<link>http://localhost/aicoutos/?p=4</link>
 				<pubDate>Sat, 21 Sep 2019 13:40:16 +0000</pubDate>
