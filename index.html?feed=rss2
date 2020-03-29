@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Sat, 28 Mar 2020 20:23:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 29 Mar 2020 12:29:19 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -133,16 +133,16 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 ]]></content:encoded>
 										</item>
 		<item>
-		<title>Versões do PHP no Linux Mint e Ubuntu</title>
+		<title>Versões do PHP e do Laravel no Linux Mint e Ubuntu</title>
 		<link>http://localhost/aicoutos/?p=4</link>
 				<pubDate>Sat, 21 Sep 2019 13:40:16 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
 				<category><![CDATA[Linux]]></category>
 
 		<guid isPermaLink="false">http://root.local/?p=4</guid>
-				<description><![CDATA[Acompanhar as versões do PHP, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar. Abaixo uma tabela atualizada com as versões do PHP no Linux Mint e Ubuntu: Linux Mint[1] Data[2]... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=4"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+				<description><![CDATA[Acompanhar as versões do PHP, do Laravel, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar. Abaixo uma tabela atualizada com as versões do PHP no Linux Mint e Ubuntu: Linux... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=4"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
 								<content:encoded><![CDATA[
-<p>Acompanhar as versões do PHP, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar.</p>
+<p>Acompanhar as versões do PHP, do Laravel, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar.</p>
 
 
 
@@ -161,6 +161,9 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <th style="background: #8892bf;color: white;">PHP</th>
 <th style="background: #8892bf;color: white;">Data[2]</th>
 <th style="background: #8892bf;color: white;">Suporte</th>
+<th style="background: #ff291a;color: white;">Laravel LTS</th>
+<th style="background: #ff291a;color: white;">Data[2]</th>
+<th style="background: #ff291a;color: white;">Suporte</th>
 </tr>
 </thead>
 <tbody>
@@ -173,6 +176,9 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <td>7.2</td>
 <td>30nov2017</td>
 <td>30nov2020</td>
+<td>6.0</td>
+<td>02set2019</td>
+<td>02set2022</td>
 </tr>
 <tr>
 <td>19.2 (Tina)</td>
@@ -183,6 +189,9 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <td>7.2</td>
 <td>30nov2017</td>
 <td>30nov2020</td>
+<td>6.0</td>
+<td>02set2019</td>
+<td>02set2022</td>
 </tr>
 <tr>
 <td>19.3 (Tricia)</td>
@@ -193,6 +202,9 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <td>7.2</td>
 <td>30nov2017</td>
 <td>30nov2020</td>
+<td>6.0</td>
+<td>02set2019</td>
+<td>02set2022</td>
 </tr>
 <tr>
 <td>?</td>
@@ -203,6 +215,9 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <td>7.2</td>
 <td>30nov2017</td>
 <td>30nov2020</td>
+<td>6.0</td>
+<td>02set2019</td>
+<td>02set2022</td>
 </tr>
 <tr>
 <td>?</td>
@@ -213,6 +228,9 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <td>7.2</td>
 <td>30nov2017</td>
 <td>30nov2020</td>
+<td>6.0</td>
+<td>02set2019</td>
+<td>02set2022</td>
 </tr>
 <tr>
 <td>?</td>
@@ -223,6 +241,9 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <td>7.3</td>
 <td>06dez2018</td>
 <td>06dez2021</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
 </tr>
 <tr>
 <td>?</td>
@@ -233,26 +254,28 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 <td>7.3</td>
 <td>06dez2018</td>
 <td>06dez2021</td>
+<td>?</td>
+<td>?</td>
+<td>?</td>
 </tr>
 </tbody>
 </table>
 
 
 
-<ol>
-<li>Linux Mint com Ubuntu</li>
-<li>Data de lançamento</li>
-</ol>
-<h2>Fontes:</h2>
-<ul>
-<li><a href="https://semver.org/lang/pt-BR/" target="_blank" rel="noopener noreferrer">Versionamento Semântico</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Linux_Mint_version_history" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Linux_Mint_version_history</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Ubuntu_version_history" target="_blank" rel="noopener noreferrer">https://en.wikipedia.org/wiki/Ubuntu_version_history</a></li>
-<li><a href="https://wiki.ubuntu.com/FocalFossa/ReleaseSchedule" target="_blank" rel="noopener noreferrer">https://wiki.ubuntu.com/FocalFossa/ReleaseSchedule</a></li>
-<li><a href="https://www.php.net/supported-versions.php" target="_blank" rel="noopener noreferrer">https://www.php.net/supported-versions.php</a></li>
-<li><a href="https://packages.ubuntu.com/eoan/php/php" target="_blank" rel="noopener noreferrer">https://packages.ubuntu.com/eoan/php/php</a></li>
-<li><a href="https://packages.ubuntu.com/focal/php" target="_blank" rel="noopener noreferrer">https://packages.ubuntu.com/focal/php</a></li>
-</ul>
+<ol><li> Linux Mint com Ubuntu</li><li> Data de lançamento </li></ol>
+
+
+
+<p><strong>Fontes:</strong></p>
+
+
+
+<ul><li> <a rel="noreferrer noopener" href="https://semver.org/lang/pt-BR/" target="_blank">Versionamento Semântico</a></li><li> <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Linux_Mint_version_history" target="_blank">https://en.wikipedia.org/wiki/Linux_Mint_version_history</a></li><li> <a rel="noreferrer noopener" href="https://en.wikipedia.org/wiki/Ubuntu_version_history" target="_blank">https://en.wikipedia.org/wiki/Ubuntu_version_history</a></li><li> <a rel="noreferrer noopener" href="https://wiki.ubuntu.com/FocalFossa/ReleaseSchedule" target="_blank">https://wiki.ubuntu.com/FocalFossa/ReleaseSchedule</a></li><li> <a rel="noreferrer noopener" href="https://www.php.net/supported-versions.php" target="_blank">https://www.php.net/supported-versions.php</a></li><li><a rel="noreferrer noopener" aria-label="https://packages.ubuntu.com/bionic/php (abre numa nova aba)" href="https://packages.ubuntu.com/bionic/php" target="_blank">https://packages.ubuntu.com/bionic/php</a></li><li><a rel="noreferrer noopener" aria-label="https://packages.ubuntu.com/disco/php (abre numa nova aba)" href="https://packages.ubuntu.com/disco/php" target="_blank">https://packages.ubuntu.com/disco/php</a></li><li> <a rel="noreferrer noopener" aria-label=" (abre numa nova aba)" href="https://packages.ubuntu.com/eoan/php" target="_blank">https://packages.ubuntu.com/eoan/php</a></li><li> <a rel="noreferrer noopener" href="https://packages.ubuntu.com/focal/php" target="_blank">https://packages.ubuntu.com/focal/php</a> </li><li><a href="https://en.wikipedia.org/wiki/Laravel#Release_history" target="_blank" rel="noreferrer noopener" aria-label="https://en.wikipedia.org/wiki/Laravel#Release_history (abre numa nova aba)">https://en.wikipedia.org/wiki/Laravel#Release_history</a></li></ul>
+
+
+
+<p></p>
 ]]></content:encoded>
 										</item>
 		<item>
