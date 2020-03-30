@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;cat=7" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Sun, 29 Mar 2020 12:29:19 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2020 02:26:54 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -205,7 +205,7 @@ ser encerrada.</p>
 ]]></content:encoded>
 										</item>
 		<item>
-		<title>Encadeamentos ou pipelines Linux</title>
+		<title>Encadeamentos ou pipelines no Linux</title>
 		<link>http://localhost/aicoutos/?p=136</link>
 				<pubDate>Mon, 10 Jun 2019 01:18:29 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
