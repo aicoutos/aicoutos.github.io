@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;cat=7" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Mon, 30 Mar 2020 02:26:54 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2020 02:35:06 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -205,26 +205,24 @@ ser encerrada.</p>
 ]]></content:encoded>
 										</item>
 		<item>
-		<title>Encadeamentos ou pipelines no Linux</title>
+		<title>Pipelines no Linux</title>
 		<link>http://localhost/aicoutos/?p=136</link>
 				<pubDate>Mon, 10 Jun 2019 01:18:29 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
 				<category><![CDATA[Trabalhos e estudos]]></category>
 
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=136</guid>
-				<description><![CDATA[Encadeamentos ou pipelines são conjuntos de processos em sequência (conexões), de forma que a saída (stdout) de um processo é utilizada como entrada (stdin) do processo seguinte. Elas funcionam como um trem bala que acelera entre um número reduzido de paradas para chegar mais rapidamente ao seu destino. Tipicamente, utiliza-se... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=136"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+				<description><![CDATA[Pipelines ou encadeamentos são conjuntos de processos em sequência (conexões), de forma que a saída (stdout) de um processo é utilizada como entrada (stdin) do processo seguinte. Pipelines economizam o nosso tempo de maneira semelhante a um trem bala que acelera entre um número reduzido de paradas para chegar mais... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=136"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
 								<content:encoded><![CDATA[
-<p>Encadeamentos ou pipelines são conjuntos de processos em sequência 
-(conexões), de forma que a saída (stdout) de um processo é utilizada 
-como entrada (stdin) do processo seguinte. Elas funcionam como um trem 
-bala que acelera entre um número reduzido de paradas para chegar mais 
-rapidamente ao seu destino.</p>
+<p>Pipelines ou encadeamentos são conjuntos de processos em sequência  (conexões), de forma que a saída (stdout) de um processo é utilizada  como entrada (stdin) do processo seguinte.</p>
 
 
 
-<p>Tipicamente, utiliza-se o caractere “|” (barra vertical) que, por 
-esta razão, também é conhecido como “pipe” pelos usuários de sistemas 
-Unix-like.</p>
+<p>Pipelines economizam o nosso tempo de maneira semelhante a um trem bala que acelera entre um número reduzido de paradas para chegar mais  rapidamente ao seu destino.</p>
+
+
+
+<p>Nos pipelines tipicamente, utiliza-se o caractere “|” (barra vertical) que, por  esta razão, também é conhecido como “pipe” pelos usuários de sistemas  Unix-like.</p>
 
 
 
