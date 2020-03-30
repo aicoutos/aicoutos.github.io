@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Sat, 28 Mar 2020 20:14:08 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2020 01:56:06 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -44,9 +44,9 @@
 				<category><![CDATA[Hacker Gaucho]]></category>
 
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=122</guid>
-				<description><![CDATA[As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1]. A terceira foi adicionada por mim. Empirismo estrito Trabalha com simulações [2] utilizando dados empíricos [3] através da memória retrospectiva [4] A posteriori [8] é o conhecimento ou justificação... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+				<description><![CDATA[As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim que também tomei liberdade de complementar o raciocínio do cientista com com informações de outras fontes citadas no final desse texto. Empirismo... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
 								<content:encoded><![CDATA[
-<p>As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1]. A terceira foi adicionada por mim.</p>
+<p>As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim que também tomei liberdade de complementar o raciocínio do cientista com com informações de outras fontes citadas no final desse texto.</p>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/arquiteto.jpg" alt="" class="wp-image-130"/><figcaption>Arquiteto</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/arquiteto.jpg" alt="" class="wp-image-130"/><figcaption>O Arquiteto representa a busca da onisciência através da experiência</figcaption></figure></div>
 
 
 
@@ -86,7 +86,7 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/oraculo.jpg" alt="" class="wp-image-131"/><figcaption>Oráculo</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/oraculo.jpg" alt="" class="wp-image-131"/><figcaption>O Oráculo representa a esperança advinda do conhecimento parcial das probabilidades</figcaption></figure></div>
 
 
 
@@ -109,15 +109,15 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 
 
 
+<p>Charles Sanders Peirce afirmou que o verdadeiro raciocínio do cientista empírico é o raciocínio abdutivo. Segundo Peirce o papel do cientista empírico é abstrair dos fenômenos e das observações certas hipóteses de trabalho, sendo assim como um raciocínio dedutivo ao contrário partindo das induções (probabilidades) como base para o desenvolvimento de suas teorias [9]. A abdução estabelece a probabilidade da conclusão da inferência e não necessariamente a sua verdade [11].</p>
+
+
+
 <h2>Lógica difusa</h2>
 
 
 
-<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/smith-and-neo.jpg" alt="" class="wp-image-132"/><figcaption>Agente Smith e Neo</figcaption></figure></div>
-
-
-
-<p>Charles Sanders Peirce afirmou que o verdadeiro raciocínio do cientista empírico é o raciocínio abdutivo. Segundo Peirce o papel do cientista empírico é abstrair dos fenômenos e das observações certas hipóteses de trabalho, sendo assim como um raciocínio dedutivo ao contrário partindo das induções (probabilidades) como base para o desenvolvimento de suas teorias [9]. A abdução estabelece a probabilidade da conclusão da inferência e não necessariamente a sua verdade [11].</p>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/03/smith-and-neo.jpg" alt="" class="wp-image-132"/><figcaption>O Agente Smith e Neo representam a batalha entre um mundo físico e um mundo virtual e a relatividade moral inerente a essa batalha</figcaption></figure></div>
 
 
 
@@ -125,11 +125,23 @@ mundo físico são. Você não tem que fazer qualquer ciência.&#8221;.</p>
 
 
 
+<p>Creio que a lógica difusa seja uma visão científica válida <em>per se</em> pois ela está cada vez mais presente em nosso dia a dia desde coisas simples como calcular a previsão do tempo para o próximo dia até em coisas mais complexas como controlar um veículo autônomo.</p>
+
+
+
+<p>A lógica difusa não é uma forma de &#8220;empirismo estrito&#8221; pois é possível treinar uma inteligência artificial utilizando dados virtuais gerados por computador. Também não é uma forma de &#8220;fenomenologia prospectiva&#8221; pois depende a experiência. <br><br>Treinar uma inteligência artificial não é algo que se faça sentado em um sofá: A inteligência precisa ser conectada ao mundo físico, caso contrário ela produzirá no máximo ciência teórica já que ainda não somos oniscientes para que possamos simplesmente replicar nosso conhecimento em máquinas totalmente alheias ao mundo físico.</p>
+
+
+
 <p><strong>Fontes:</strong></p>
 
 
 
-<ol><li> <a rel="noreferrer noopener" target="_blank" href="https://youtu.be/OmZnhKe_PXw?t=3107"> Varginha, as duas faces do ET (Documentário completo) </a>             </li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Simulacros_e_Simula%C3%A7%C3%A3o"> https://pt.wikipedia.org/wiki/Simulacros_e_Simulação </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Empirismo">          https://pt.wikipedia.org/wiki/Empirismo </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Retrospective_memory">          https://en.wikipedia.org/wiki/Retrospective_memory </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Fenomenologia">          https://pt.wikipedia.org/wiki/Fenomenologia </a></li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Futurologia">          https://pt.wikipedia.org/wiki/Futurologia </a>             </li><li> <a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Prospective_memory">          https://en.wikipedia.org/wiki/Prospective_memory </a> </li><li> <a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori"> https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori </a>             </li><li> <a rel="noreferrer noopener" href="https://youtu.be/LxhOLJLuNcY" target="_blank"> A Lógica como ciência do raciocínio | Itala M. L. D&#8217;Ottaviano | TEDxUnicamp </a> </li><li> <a rel="noreferrer noopener" href="http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html" target="_blank"> http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html </a> </li><li> <a rel="noreferrer noopener" href="https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica)" target="_blank"> https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica) </a> </li><li><a href="https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa">https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa</a></li></ol>
+<ol><li><a rel="noreferrer noopener" target="_blank" href="https://youtu.be/OmZnhKe_PXw?t=3107">Varginha, as duas faces do ET (Documentário completo) </a>             </li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Simulacros_e_Simula%C3%A7%C3%A3o">https://pt.wikipedia.org/wiki/Simulacros_e_Simulação </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Empirismo">https://pt.wikipedia.org/wiki/Empirismo </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Retrospective_memory">https://en.wikipedia.org/wiki/Retrospective_memory </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Fenomenologia">https://pt.wikipedia.org/wiki/Fenomenologia </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Futurologia">https://pt.wikipedia.org/wiki/Futurologia </a>             </li><li><a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Prospective_memory">https://en.wikipedia.org/wiki/Prospective_memory </a> </li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori">https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori </a>             </li><li><a rel="noreferrer noopener" href="https://youtu.be/LxhOLJLuNcY" target="_blank">A Lógica como ciência do raciocínio | Itala M. L. D&#8217;Ottaviano | TEDxUnicamp </a> </li><li><a rel="noreferrer noopener" href="http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html" target="_blank">http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html </a> </li><li><a rel="noreferrer noopener" href="https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica)" target="_blank">https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica) </a> </li><li><a href="https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa">https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa</a></li></ol>
+
+
+
+<p></p>
 ]]></content:encoded>
 										</item>
 	</channel>
