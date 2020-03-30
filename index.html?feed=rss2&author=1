@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;author=1" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Mon, 30 Mar 2020 02:35:06 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2020 10:41:21 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -44,9 +44,9 @@
 				<category><![CDATA[Opiniões]]></category>
 
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=122</guid>
-				<description><![CDATA[As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim que também tomei liberdade de complementar o raciocínio do cientista com com informações de outras fontes citadas no final desse texto. Empirismo... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+				<description><![CDATA[As duas primeiras visões científicas são as principais de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim. Também tomei liberdade de complementar o raciocínio do cientista com informações de outras fontes citadas no final do texto. Empirismo estrito Trabalha com... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
 								<content:encoded><![CDATA[
-<p>As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim que também tomei liberdade de complementar o raciocínio do cientista com com informações de outras fontes citadas no final desse texto.</p>
+<p>As duas primeiras visões científicas são as principais de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim. Também tomei liberdade de complementar o raciocínio do cientista com informações de outras fontes citadas no final do texto.</p>
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-<p>A posteriori [8] é o conhecimento ou justificação dependente de  experiência ou evidência empírica, ou seja, depende de o objeto do qual  será retirado o conhecimento esteja disposto aos meus sentidos, o  individuo precisa ver, ou sentir, ou tocar, para, a partir dessa  premissa, começar o raciocínio. </p>
+<p>A posteriori [8] é o conhecimento ou justificação dependente de  experiência ou evidência empírica, ou seja, depende de o objeto do qual  será retirado o conhecimento esteja disposto aos sentidos, o  individuo precisa ver, ou sentir, ou tocar, para, a partir dessa  premissa, começar o raciocínio. </p>
 
 
 
@@ -97,7 +97,7 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 
 
 
-<p>A lógica indutiva (raciocínio indutivo) estuda as inferências  prováveis, por exemplo: 80% dos candidatos votarão no candidato X,  portando o candidato X deverá ganhar as eleições [9].</p>
+<p>A lógica indutiva (raciocínio indutivo) estuda as inferências prováveis, por exemplo: 80% dos candidatos votarão no candidato X,  portando o candidato X deverá ganhar as eleições [9].</p>
 
 
 
@@ -113,15 +113,15 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 
 
 
-<p>A lógica difusa ou lógica fuzzy é a forma de lógica multivalorada, na qual os valores de verdade das variáveis podem ser qualquer número real entre 0 (correspondente ao valor falso) e 1 (correspondente ao valor verdadeiro), diferentemente do que se verifica na lógica booleana (também chamada, às vezes, lógica nítida), segundo a qual os valores lógicos podem ser apenas 0 ou 1.  [12]</p>
+<p>A lógica difusa ou lógica <em>fuzzy</em> é a forma de lógica multivalorada, na qual os valores de verdade das variáveis podem ser qualquer número real entre 0 (correspondente ao valor falso) e 1 (correspondente ao valor verdadeiro), diferentemente do que se verifica na lógica booleana (também chamada, às vezes, lógica nítida), segundo a qual os valores lógicos podem ser apenas 0 ou 1.  [12]</p>
 
 
 
-<p>Creio que a lógica difusa seja uma visão científica válida <em>per se</em> pois ela está cada vez mais presente em nosso dia a dia desde coisas simples como calcular a previsão do tempo para o próximo dia até em coisas mais complexas como controlar um veículo autônomo.</p>
+<p>Creio que a lógica difusa seja uma visão científica válida <em>per se</em> pois ela está cada vez mais presente em nosso dia a dia desde coisas simples como calcular a previsão do tempo para o próximo dia até coisas mais complexas como controlar a aterrissagem de um foguete.</p>
 
 
 
-<p>A lógica difusa não é uma forma de &#8220;empirismo estrito&#8221; pois é possível treinar uma inteligência artificial utilizando dados virtuais gerados por computador. Também não é uma forma de &#8220;fenomenologia prospectiva&#8221; pois depende da experiência de coleta de dados em campo. <br><br>Treinar uma inteligência artificial não é algo que se faça sentado em um sofá: A inteligência artificial precisa refletir o mundo físico, caso contrário ela produzirá no máximo simulacros já que ainda não somos oniscientes ao ponto de que nos seja permitido replicarmos nosso conhecimento em máquinas totalmente alheias ao mundo físico criando o que seria uma simulação perfeita da nossa realidade.</p>
+<p>A lógica difusa não é uma forma de &#8220;empirismo estrito&#8221; pois é possível treinar uma inteligência artificial utilizando dados virtuais gerados por computador. Também não é uma forma de &#8220;fenomenologia prospectiva&#8221; pois depende da experiência de coleta de dados em campo. <br><br>Treinar uma inteligência artificial não é algo que se faça sentado em um sofá: A inteligência artificial precisa refletir o mundo físico, caso contrário ela produzirá no máximo simulacros já que ainda não somos oniscientes ao ponto de que nos seja permitido replicarmos nosso conhecimento em máquinas totalmente alheias ao mundo físico criando o que seria como uma simulação perfeita da nossa realidade.</p>
 
 
 
