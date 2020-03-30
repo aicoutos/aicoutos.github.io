@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Hacker Gaucho &#8211; Anderson Ismael</title>
+	<title>Opiniões &#8211; Anderson Ismael</title>
 	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
@@ -24,7 +24,7 @@
 		<link>http://localhost/aicoutos/?p=111</link>
 				<pubDate>Sat, 28 Mar 2020 12:42:33 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
+				<category><![CDATA[Opiniões]]></category>
 
 		<guid isPermaLink="false">http://root.local/?p=111</guid>
 				<description><![CDATA[]]></description>
@@ -41,7 +41,7 @@
 		<link>http://localhost/aicoutos/?p=122</link>
 				<pubDate>Fri, 04 Oct 2019 13:29:07 +0000</pubDate>
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
-				<category><![CDATA[Hacker Gaucho]]></category>
+				<category><![CDATA[Opiniões]]></category>
 
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=122</guid>
 				<description><![CDATA[As duas primeiras são as duas principais visões científicas de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim que também tomei liberdade de complementar o raciocínio do cientista com com informações de outras fontes citadas no final desse texto. Empirismo... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
