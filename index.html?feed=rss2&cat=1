@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Mon, 30 Mar 2020 10:41:21 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 30 Mar 2020 11:06:16 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -117,11 +117,11 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 
 
 
-<p>Creio que a lógica difusa seja uma visão científica válida <em>per se</em> pois ela está cada vez mais presente em nosso dia a dia desde coisas simples como calcular a previsão do tempo para o próximo dia até coisas mais complexas como controlar a aterrissagem de um foguete.</p>
+<p>Creio que a lógica difusa seja uma visão científica válida <em>per se</em> pois ela está cada vez mais presente em nosso dia a dia desde coisas simples como calcular a previsão do tempo para o próximo dia até coisas mais complexas como controlar um veículo autônomo.</p>
 
 
 
-<p>A lógica difusa não é uma forma de &#8220;empirismo estrito&#8221; pois é possível treinar uma inteligência artificial utilizando dados virtuais gerados por computador. Também não é uma forma de &#8220;fenomenologia prospectiva&#8221; pois depende da experiência de coleta de dados em campo. <br><br>Treinar uma inteligência artificial não é algo que se faça sentado em um sofá: A inteligência artificial precisa refletir o mundo físico, caso contrário ela produzirá no máximo simulacros já que ainda não somos oniscientes ao ponto de que nos seja permitido replicarmos nosso conhecimento em máquinas totalmente alheias ao mundo físico criando o que seria como uma simulação perfeita da nossa realidade.</p>
+<p>A lógica difusa não é uma forma de &#8220;empirismo estrito&#8221; pois é possível treinar uma inteligência artificial utilizando dados virtuais gerados por computador através de redes neurais recorrentes [13]. Também não é uma forma de &#8220;fenomenologia prospectiva&#8221; pois depende da experiência de coleta de dados em campo. <br><br>Treinar uma inteligência artificial não é algo que se faça sentado em um sofá: A inteligência artificial precisa refletir o mundo físico, caso contrário ela produzirá no máximo simulacros já que ainda não somos oniscientes ao ponto de que nos seja permitido replicarmos nosso conhecimento em máquinas totalmente alheias ao mundo físico criando o que seria como uma simulação perfeita da nossa realidade.</p>
 
 
 
@@ -129,11 +129,11 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 
 
 
-<ol><li><a rel="noreferrer noopener" target="_blank" href="https://youtu.be/OmZnhKe_PXw?t=3107">Varginha, as duas faces do ET (Documentário completo) </a>             </li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Simulacros_e_Simula%C3%A7%C3%A3o">https://pt.wikipedia.org/wiki/Simulacros_e_Simulação </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Empirismo">https://pt.wikipedia.org/wiki/Empirismo </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Retrospective_memory">https://en.wikipedia.org/wiki/Retrospective_memory </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Fenomenologia">https://pt.wikipedia.org/wiki/Fenomenologia </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Futurologia">https://pt.wikipedia.org/wiki/Futurologia </a>             </li><li><a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Prospective_memory">https://en.wikipedia.org/wiki/Prospective_memory </a> </li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori">https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori </a>             </li><li><a rel="noreferrer noopener" href="https://youtu.be/LxhOLJLuNcY" target="_blank">A Lógica como ciência do raciocínio | Itala M. L. D&#8217;Ottaviano | TEDxUnicamp </a> </li><li><a rel="noreferrer noopener" href="http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html" target="_blank">http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html </a> </li><li><a rel="noreferrer noopener" href="https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica)" target="_blank">https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica) </a> </li><li><a href="https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa">https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa</a></li></ol>
+<ol><li><a rel="noreferrer noopener" target="_blank" href="https://youtu.be/OmZnhKe_PXw?t=3107">Varginha, as duas faces do ET (Documentário completo) </a>             </li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Simulacros_e_Simula%C3%A7%C3%A3o">https://pt.wikipedia.org/wiki/Simulacros_e_Simulação </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Empirismo">https://pt.wikipedia.org/wiki/Empirismo </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Retrospective_memory">https://en.wikipedia.org/wiki/Retrospective_memory </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Fenomenologia">https://pt.wikipedia.org/wiki/Fenomenologia </a></li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/Futurologia">https://pt.wikipedia.org/wiki/Futurologia </a>             </li><li><a rel="noreferrer noopener" target="_blank" href="https://en.wikipedia.org/wiki/Prospective_memory">https://en.wikipedia.org/wiki/Prospective_memory </a> </li><li><a rel="noreferrer noopener" target="_blank" href="https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori">https://pt.wikipedia.org/wiki/A_priori_e_a_posteriori </a>             </li><li><a rel="noreferrer noopener" href="https://youtu.be/LxhOLJLuNcY" target="_blank">A Lógica como ciência do raciocínio | Itala M. L. D&#8217;Ottaviano | TEDxUnicamp </a> </li><li><a rel="noreferrer noopener" href="http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html" target="_blank">http://sabemosdetudo.com/artes/ask169752-Qual_e_a_diferenca_entre_inferencia_indutivo_e_dedutivo.html </a> </li><li><a rel="noreferrer noopener" href="https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica)" target="_blank">https://pt.wikipedia.org/wiki/Abdu%C3%A7%C3%A3o_(l%C3%B3gica_filos%C3%B3fica) </a> </li><li><a href="https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa">https://pt.wikipedia.org/wiki/L%C3%B3gica_difusa</a></li><li><a href="http://deeplearningbook.com.br/redes-neurais-recorrentes/" target="_blank" rel="noreferrer noopener" aria-label="http://deeplearningbook.com.br/redes-neurais-recorrentes/ (abre numa nova aba)">http://deeplearningbook.com.br/redes-neurais-recorrentes/</a></li></ol>
 
 
 
-<p></p>
+<h2></h2>
 ]]></content:encoded>
 										</item>
 	</channel>
