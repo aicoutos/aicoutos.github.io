@@ -18,34 +18,39 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 	<item>
 		<title>Pugs Not Drugs</title>
 		<link>http://localhost/aicoutos/?p=111</link>
-				<pubDate>Sat, 28 Mar 2020 12:42:33 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
+		<pubDate>Sat, 28 Mar 2020 12:42:33 +0000</pubDate>
 				<category><![CDATA[Opiniões]]></category>
-
 		<guid isPermaLink="false">http://root.local/?p=111</guid>
-				<description><![CDATA[]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
 <figure class="wp-block-image size-large"><img src="http://root.local/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" title="Pugs Not Drugs" alt="Pugs Not Drugs" class="wp-image-87" srcset="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png 625w, http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized-234x300.png 234w, http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized-117x150.png 117w" sizes="(max-width: 625px) 100vw, 625px" /></figure>
 
 
 
 <p></p>
 ]]></content:encoded>
-										</item>
+					
+		
+		
+			</item>
 		<item>
 		<title>Matrix e as três principais visões científicas</title>
 		<link>http://localhost/aicoutos/?p=122</link>
-				<pubDate>Fri, 04 Oct 2019 13:29:07 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
+		<pubDate>Fri, 04 Oct 2019 13:29:07 +0000</pubDate>
 				<category><![CDATA[Opiniões]]></category>
-
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=122</guid>
-				<description><![CDATA[As duas primeiras visões científicas são as principais de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim. Também tomei liberdade de complementar o raciocínio do cientista com informações de outras fontes citadas no final do texto. Empirismo estrito Trabalha com... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[As duas primeiras visões científicas são as principais de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim. Também tomei liberdade de complementar o raciocínio do cientista com informações de outras fontes citadas no final do texto. Empirismo estrito Trabalha com... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=122"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+										<content:encoded><![CDATA[
 <p>As duas primeiras visões científicas são as principais de acordo com o cientista espacial Reinaldo Roberto Rosa do INPE [1] enquanto a terceira foi adicionada por mim. Também tomei liberdade de complementar o raciocínio do cientista com informações de outras fontes citadas no final do texto.</p>
 
 
@@ -135,6 +140,9 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 
 <h2></h2>
 ]]></content:encoded>
-										</item>
+					
+		
+		
+			</item>
 	</channel>
 </rss>

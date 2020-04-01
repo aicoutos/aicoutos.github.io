@@ -18,17 +18,18 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.3.2</generator>
+	<generator>https://wordpress.org/?v=5.4</generator>
 	<item>
 		<title>Versões do PHP e do Laravel no Linux Mint e Ubuntu</title>
 		<link>http://localhost/aicoutos/?p=4</link>
-				<pubDate>Sat, 21 Sep 2019 13:40:16 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
+		<pubDate>Sat, 21 Sep 2019 13:40:16 +0000</pubDate>
 				<category><![CDATA[Trabalhos e estudos]]></category>
-
 		<guid isPermaLink="false">http://root.local/?p=4</guid>
-				<description><![CDATA[Acompanhar as versões do PHP, do Laravel, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar. Abaixo uma tabela atualizada com as versões do PHP no Linux Mint e Ubuntu: Linux... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=4"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Acompanhar as versões do PHP, do Laravel, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar. Abaixo uma tabela atualizada com as versões do PHP no Linux Mint e Ubuntu: Linux... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=4"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+										<content:encoded><![CDATA[
 <p>Acompanhar as versões do PHP, do Laravel, do Linux Mint e do Ubuntu pode ser um pouco confuso pois a cada nova versão do Ubuntu a versão do PHP (Major.Minor no Versionamento Semântico) costuma mudar.</p>
 
 
@@ -164,17 +165,21 @@
 
 <p></p>
 ]]></content:encoded>
-										</item>
+					
+		
+		
+			</item>
 		<item>
 		<title>Usando o Screen em tarefas demoradas</title>
 		<link>http://localhost/aicoutos/?p=134</link>
-				<pubDate>Thu, 25 Jul 2019 20:47:19 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
+		<pubDate>Thu, 25 Jul 2019 20:47:19 +0000</pubDate>
 				<category><![CDATA[Trabalhos e estudos]]></category>
-
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=134</guid>
-				<description><![CDATA[O GNU Screen [1] é um software livre multiplexador de terminais VT100 [2]. Ele possui o recurso de persistir a sessão mesmo após a conexão ser encerrada. O Screen é útil caso você precise executar uma tarefa demorada em seu servidor mas não precisa acompanhar a execução dela remotamente. Como... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=134"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[O GNU Screen [1] é um software livre multiplexador de terminais VT100 [2]. Ele possui o recurso de persistir a sessão mesmo após a conexão ser encerrada. O Screen é útil caso você precise executar uma tarefa demorada em seu servidor mas não precisa acompanhar a execução dela remotamente. Como... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=134"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+										<content:encoded><![CDATA[
 <p>O GNU Screen [1] é um software livre multiplexador de terminais VT100
  [2]. Ele possui o recurso de persistir a sessão mesmo após a conexão 
 ser encerrada.</p>
@@ -203,17 +208,21 @@ ser encerrada.</p>
 
 <ol><li><a href="https://pt.wikipedia.org/wiki/GNU_Screen" target="_blank" rel="noreferrer noopener">https://pt.wikipedia.org/wiki/GNU_Screen</a></li><li><a href="https://pt.wikipedia.org/wiki/VT100" target="_blank" rel="noreferrer noopener">https://pt.wikipedia.org/wiki/VT100</a></li></ol>
 ]]></content:encoded>
-										</item>
+					
+		
+		
+			</item>
 		<item>
 		<title>Pipelines no Linux</title>
 		<link>http://localhost/aicoutos/?p=136</link>
-				<pubDate>Mon, 10 Jun 2019 01:18:29 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
+		<pubDate>Mon, 10 Jun 2019 01:18:29 +0000</pubDate>
 				<category><![CDATA[Trabalhos e estudos]]></category>
-
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=136</guid>
-				<description><![CDATA[Pipelines ou encadeamentos são conjuntos de processos em sequência (conexões), de forma que a saída (stdout) de um processo é utilizada como entrada (stdin) do processo seguinte. Pipelines economizam o nosso tempo de maneira semelhante a um trem bala que acelera entre um número reduzido de paradas para chegar mais... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=136"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Pipelines ou encadeamentos são conjuntos de processos em sequência (conexões), de forma que a saída (stdout) de um processo é utilizada como entrada (stdin) do processo seguinte. Pipelines economizam o nosso tempo de maneira semelhante a um trem bala que acelera entre um número reduzido de paradas para chegar mais... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=136"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+										<content:encoded><![CDATA[
 <p>Pipelines ou encadeamentos são conjuntos de processos em sequência  (conexões), de forma que a saída (stdout) de um processo é utilizada  como entrada (stdin) do processo seguinte.</p>
 
 
@@ -296,17 +305,21 @@ c</code></p>
 
 <ul><li><a href="https://pt.wikipedia.org/wiki/Encadeamento_(Unix)" target="_blank" rel="noreferrer noopener">https://pt.wikipedia.org/wiki/Encadeamento_(Unix)</a></li><li><a href="https://pt.wikipedia.org/wiki/Fluxos_padr%C3%A3o" target="_blank" rel="noreferrer noopener">https://pt.wikipedia.org/wiki/Fluxos_padr%C3%A3o</a></li><li><a href="https://pt.wikipedia.org/wiki/Redirecionamento_(computa%C3%A7%C3%A3o)" target="_blank" rel="noreferrer noopener">https://pt.wikipedia.org/wiki/Redirecionamento_(computa%C3%A7%C3%A3o)</a></li></ul>
 ]]></content:encoded>
-										</item>
+					
+		
+		
+			</item>
 		<item>
 		<title>Como transferir um domínio em 6 passos</title>
 		<link>http://localhost/aicoutos/?p=138</link>
-				<pubDate>Wed, 27 Mar 2019 01:36:46 +0000</pubDate>
+		
 		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2019 01:36:46 +0000</pubDate>
 				<category><![CDATA[Trabalhos e estudos]]></category>
-
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=138</guid>
-				<description><![CDATA[Para poupar uma grana você pode transferir o seu domínio para outro serviço de registro que possua uma taxa de transferência menor que a sua taxa de renovação atual. Sites como o tld-list.com ajudam a encontrar os melhores preços para registro e transferência de domínios. Como transferir um domínio em... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=138"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
-								<content:encoded><![CDATA[
+
+					<description><![CDATA[Para poupar uma grana você pode transferir o seu domínio para outro serviço de registro que possua uma taxa de transferência menor que a sua taxa de renovação atual. Sites como o tld-list.com ajudam a encontrar os melhores preços para registro e transferência de domínios. Como transferir um domínio em... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=138"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+										<content:encoded><![CDATA[
 <p>Para poupar uma grana você pode transferir o seu domínio para outro 
 serviço de registro que possua uma taxa de transferência menor que a sua
  taxa de renovação atual.</p>
@@ -358,6 +371,9 @@ desabilite a proteção de WHOIS antes de iniciar a transferência.</p>
 (marcado para exclusão) não podem ser transferidos. O status será 
 alterado para “pendingTransfer” durante a transferência.</p>
 ]]></content:encoded>
-										</item>
+					
+		
+		
+			</item>
 	</channel>
 </rss>
