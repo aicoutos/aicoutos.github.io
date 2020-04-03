@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Fri, 03 Apr 2020 22:47:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Apr 2020 22:59:22 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 				<category><![CDATA[Opiniões]]></category>
 		<guid isPermaLink="false">http://localhost/aicoutos/?p=195</guid>
 
-					<description><![CDATA[Existem 3 tipos de programadores: O tecelão, o alfaiate e o vendedor. O tecelão O tecelão é o programador que tem um conhecimento profundo da linguagem pura, ele é o responsável por fazer as bibliotecas que são como o tecido. O alfaiate O alfaiate é o programador que apenas utiliza... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=195"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+					<description><![CDATA[Existem 3 tipos de programadores: O tecelão, o alfaiate e o vendedor. O tecelão O tecelão é o programador que tem um conhecimento profundo da linguagem pura, ele é o responsável por fazer as bibliotecas que são o tecido básico da programação. O alfaiate O alfaiate é o programador que... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=195"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
 										<content:encoded><![CDATA[
 <p>Existem 3 tipos de programadores: O tecelão, o alfaiate e o vendedor.</p>
 
@@ -42,7 +42,7 @@
 
 
 
-<p>O tecelão é o programador que tem um conhecimento profundo da linguagem pura, ele é o responsável por fazer as bibliotecas que são como o tecido.</p>
+<p>O tecelão é o programador que tem um conhecimento profundo da linguagem pura, ele é o responsável por fazer as bibliotecas que são o tecido básico da programação.</p>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<p>O alfaiate é o programador que apenas utiliza tecidos prontos, cortando e juntando diferentes tipos de bibliotecas na forma de <em>frameworks</em> que são como as roupas.</p>
+<p>O alfaiate é o programador que apenas utiliza tecidos prontos, cortando e juntando diferentes tipos de bibliotecas na forma de <em>frameworks</em> ou <em>CMSs</em> que são como as roupas.</p>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<p>O vendedor é o programador que apenas vende as roupas  prontas para os clientes. Bons vendedores tem um bom entendimento sobre diferentes tipos de <em>frameworks</em> e eventualmente até tem um conhecimento bastante profundo sobre diferentes tipos de tecido e técnicas de tecelagem, porém não costumam fabricar tecidos ou montar suas próprias roupas.</p>
+<p>O vendedor é o programador que apenas vende as roupas  prontas para os clientes. Bons vendedores tem um bom entendimento sobre diferentes tipos de <em>frameworks</em> e CMSs e eventualmente até tem um conhecimento bastante profundo sobre diferentes tipos de tecido e técnicas de tecelagem, porém não costumam fabricar tecidos ou montar suas próprias roupas.</p>
 
 
 
