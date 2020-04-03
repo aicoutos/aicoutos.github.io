@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="pt-BR" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
@@ -28,6 +28,7 @@ img.emoji {
 }
 </style>
 	<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min.css%3Fver=5.4.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfc-css'  href='wp-content/plugins/gs-facebook-comments/public/css/wpfc-public.css%3Fver=1.5.css' type='text/css' media='all' />
 <link rel='stylesheet' id='mantra-style-css'  href='wp-content/themes/mantra/style.css%3Fver=3.2.0.css' type='text/css' media='all' />
 <style id='mantra-style-inline-css' type='text/css'>
  #wrapper { max-width: 1140px; } #content { width: 100%; max-width:800px; max-width: calc( 100% - 340px ); } #primary, #secondary { width:340px; } #primary .widget-title, #secondary .widget-title { margin-right: -2em; text-align: left; } html { font-size:18px; } body, input, textarea {font-family:Arial, Helvetica, sans-serif; } #content h1.entry-title a, #content h2.entry-title a, #content h1.entry-title, #content h2.entry-title, #front-text1 h2, #front-text2 h2 {font-family:Arial Black, Gadget, sans-serif; } .nocomments, .nocomments2 {display:none;} #content h1.entry-title, #content h2.entry-title { font-size:34px; } #header-container > div { margin-top:30px; } #header-container > div { margin-left:30px; } body { background-color:#444444 !important; } #header { background-color:#333333; } #footer { background-color:#222222; } #footer2 { background-color:#171717; } #site-title span a { color:#0D85CC; } #site-description { color:#999999; } #content { color:#555555 ;} .widget-area a:link, .widget-area a:visited, a:link, a:visited ,#searchform #s:hover, #container #s:hover, #access a:hover, #wp-calendar tbody td a, #site-info a, #site-copyright a, #access li:hover > a, #access ul ul:hover > a { color:#0D85CC; } a:hover, .entry-meta a:hover, .entry-utility a:hover, .widget-area a:hover { color:#12a7ff; } #content .entry-title a, #content .entry-title, #content h1, #content h2, #content h3, #content h4, #content h5, #content h6 { color:#444444; } #content .entry-title a:hover { color:#000000; } .widget-title { background-color:#444444; } .widget-title { color:#FFFFFF; } #footer-widget-area .widget-title { color:#FFFFFF; } #footer-widget-area a { color:#666666; } #footer-widget-area a:hover { color:#888888; } .png); } .entry-content p:not(:last-child), .entry-content ul, .entry-summary ul, .entry-content ol, .entry-summary ol { margin-bottom:1.5em;} .entry-meta .entry-time { display:none; } #branding { height:125px ;} 
@@ -36,6 +37,7 @@ img.emoji {
 <link rel='stylesheet' id='mantra-mobile-css'  href='wp-content/themes/mantra/resources/css/style-mobile.css%3Fver=3.2.0.css' type='text/css' media='all' />
 <script type='text/javascript' src='wp-includes/js/jquery/jquery.js%3Fver=1.12.4-wp'></script>
 <script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min.js%3Fver=1.4.1'></script>
+<script type='text/javascript' src='wp-content/plugins/gs-facebook-comments/public/js/wpfc-public.js%3Fver=1.5'></script>
 <script type='text/javascript'>
 /* <![CDATA[ */
 var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sidebars":"0"};
@@ -46,7 +48,7 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php%3Frsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.4" />
-<!--[if lte IE 8]> <style type="text/css" media="screen"> #access ul li, .edit-link a , #footer-widget-area .widget-title, .entry-meta,.entry-meta .comments-link, .short-button-light, .short-button-dark ,.short-button-color ,blockquote { position:relative; behavior: url(http://localhost/aicoutos/wp-content/themes/mantra/resources/js/PIE/PIE.php); } #access ul ul { -pie-box-shadow:0px 5px 5px #999; } #access ul li.current_page_item, #access ul li.current-menu-item , #access ul li ,#access ul ul ,#access ul ul li, .commentlist li.comment ,.commentlist .avatar, .nivo-caption, .theme-default .nivoSlider { behavior: url(http://localhost/aicoutos/wp-content/themes/mantra/resources/js/PIE/PIE.php); } </style> <![endif]--><!--[if lt IE 9]> 
+<meta property="fb:app_id" content="1056050451422811" /><!--[if lte IE 8]> <style type="text/css" media="screen"> #access ul li, .edit-link a , #footer-widget-area .widget-title, .entry-meta,.entry-meta .comments-link, .short-button-light, .short-button-dark ,.short-button-color ,blockquote { position:relative; behavior: url(http://localhost/aicoutos/wp-content/themes/mantra/resources/js/PIE/PIE.php); } #access ul ul { -pie-box-shadow:0px 5px 5px #999; } #access ul li.current_page_item, #access ul li.current-menu-item , #access ul li ,#access ul ul ,#access ul ul li, .commentlist li.comment ,.commentlist .avatar, .nivo-caption, .theme-default .nivoSlider { behavior: url(http://localhost/aicoutos/wp-content/themes/mantra/resources/js/PIE/PIE.php); } </style> <![endif]--><!--[if lt IE 9]> 
 	<script>
 	document.createElement('header');
 	document.createElement('nav');
@@ -56,7 +58,31 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 	document.createElement('footer');
 	document.createElement('hgroup');
 	</script>
-	<![endif]--> </head>
+	<![endif]--> 
+<!-- START - Open Graph and Twitter Card Tags 2.2.7.2 -->
+ <!-- Facebook Open Graph -->
+  <meta property="og:locale" content="pt_BR"/>
+  <meta property="og:site_name" content="Anderson Ismael"/>
+  <meta property="og:title" content="Anderson Ismael"/>
+  <meta property="og:url" content="http://localhost/aicoutos"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:description" content="Blog"/>
+ <!-- Google+ / Schema.org -->
+  <meta itemprop="name" content="Anderson Ismael"/>
+  <meta itemprop="headline" content="Anderson Ismael"/>
+  <meta itemprop="description" content="Blog"/>
+  <!--<meta itemprop="publisher" content="Anderson Ismael"/>--> <!-- To solve: The attribute publisher.itemtype has an invalid value -->
+ <!-- Twitter Cards -->
+  <meta name="twitter:title" content="Anderson Ismael"/>
+  <meta name="twitter:url" content="http://localhost/aicoutos"/>
+  <meta name="twitter:description" content="Blog"/>
+  <meta name="twitter:card" content="summary_large_image"/>
+ <!-- SEO -->
+ <!-- Misc. tags -->
+ <!-- is_front_page -->
+<!-- END - Open Graph and Twitter Card Tags 2.2.7.2 -->
+	
+</head>
 <body class="home blog mantra-image-none mantra-caption-light mantra-hratio-0 mantra-sidebar-right mantra-menu-left">
 
     <div id="toTop"><i class="crycon-back2top"></i> </div>
@@ -103,6 +129,7 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 
 					<div class="skip-link screen-reader-text"><a href="index.html#content" title="Pular para o conteúdo">Pular para o conteúdo</a></div>
 	<div class="menu"><ul id="prime_nav" class="menu"><li id="menu-item-64" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-64"><a href="index.html%3Fcat=1.html">Opiniões</a></li>
+<li id="menu-item-194" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-194"><a href="index.html%3Fcat=9.html">Textos diversos</a></li>
 <li id="menu-item-140" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-140"><a href="index.html%3Fcat=7.html">Trabalhos e estudos</a></li>
 </ul></div>
 			</nav><!-- #access -->
@@ -138,6 +165,33 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 
 				
 								
+					
+	<article id="post-195" class="post-195 post type-post status-publish format-standard has-post-thumbnail hentry category-opinioes">
+		<header class="entry-header">	
+			<h2 class="entry-title">
+				<a href="index.html%3Fp=195.html" title="Ligação permanente para Os 3 tipos de programadores" rel="bookmark">
+					Os 3 tipos de programadores				</a>
+			</h2>
+						<div class="entry-meta">
+				 <span class="author vcard" > por <a class="url fn n" rel="author" href="index.html%3Fauthor=1.html" title="Ver todos posts por Anderson Ismael">Anderson Ismael</a> <span class="bl_sep">|</span></span>  <time class="onDate date published" datetime="2020-04-03T19:21:26-03:00"> <a href="index.html%3Fp=195.html" title="19:21" rel="bookmark"><span class="entry-date">3 de abril de 2020</span> <span class="entry-time"> - 19:21</span></a> </time><span class="bl_sep">|</span><time class="updated"  datetime="2020-04-03T19:47:01-03:00">3 de abril de 2020</time> <span class="bl_categ"> <a href="index.html%3Fcat=1.html" rel="category">Opiniões</a> </span>  							<div class="comments-link">
+				<span>Comentários desativados<span class="screen-reader-text"> em Os 3 tipos de programadores</span></span>			</div>
+						</div><!-- .entry-meta -->
+			
+		
+		</header><!-- .entry-header -->
+								
+					
+						<div class="entry-summary">
+						<a class="post-thumbnail-link" href="index.html%3Fp=195.html" title="Os 3 tipos de programadores"><img width="227" height="150" src="wp-content/uploads/2020/04/3-tipos-de-programador-227x150.jpg" class="alignleft post-thumbnail wp-post-image" alt="" srcset="wp-content/uploads/2020/04/3-tipos-de-programador-227x150.jpg 227w, wp-content/uploads/2020/04/3-tipos-de-programador-300x198.jpg 300w, wp-content/uploads/2020/04/3-tipos-de-programador-768x508.jpg 768w, wp-content/uploads/2020/04/3-tipos-de-programador-150x99.jpg 150w, wp-content/uploads/2020/04/3-tipos-de-programador.jpg 900w" sizes="(max-width: 227px) 100vw, 227px" /></a>						<p>Existem 3 tipos de programadores: O tecelão, o alfaiate e o vendedor. O tecelão O tecelão é o programador que tem um conhecimento profundo da linguagem pura, ele é o responsável por fazer as bibliotecas que são como o tecido. O alfaiate O alfaiate é o programador que apenas utiliza&#8230; <a class="continue-reading-link" href="index.html%3Fp=195.html"> Continue reading <span class="meta-nav">&rarr; </span></a></p>
+						</div><!-- .entry-summary --> 
+								<footer class="entry-meta2">
+						</footer><!-- #entry-meta -->
+
+	</article><!-- #post-195 -->
+	
+	
+
+				
 					
 	<article id="post-192" class="post-192 post type-post status-publish format-standard hentry category-textos-diversos">
 		<header class="entry-header">	
@@ -236,7 +290,21 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 
 
 <p></p>
-					</div><!-- .entry-content -->
+
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "http://localhost/aicoutos/?p=111"
+			  	data-numposts = "10"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div>
+		  <style>
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  					</div><!-- .entry-content -->
 		<footer class="entry-meta2">
 	
 					</footer><!-- #entry-meta -->
@@ -390,6 +458,9 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 </div>
 		</li>		<li id="recent-posts-3" class="widget-container widget_recent_entries">		<h3 class="widget-title">Posts recentes</h3>		<ul>
 											<li>
+					<a href="index.html%3Fp=195.html">Os 3 tipos de programadores</a>
+									</li>
+											<li>
 					<a href="index.html%3Fp=192.html">Desilusão</a>
 									</li>
 											<li>
@@ -400,9 +471,6 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 									</li>
 											<li>
 					<a href="index.html%3Fp=111.html">Pugs Not Drugs</a>
-									</li>
-											<li>
-					<a href="index.html%3Fp=122.html">Matrix e as três principais visões científicas</a>
 									</li>
 					</ul>
 		</li><li id="archives-2" class="widget-container widget_archive"><h3 class="widget-title">Arquivos</h3>		<ul>
@@ -415,7 +483,7 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 	<li><a href='index.html%3Fm=201903.html'>março 2019</a></li>
 		</ul>
 			</li><li id="categories-2" class="widget-container widget_categories"><h3 class="widget-title">Categorias</h3>		<ul>
-				<li class="cat-item cat-item-1"><a href="index.html%3Fcat=1.html">Opiniões</a> (2)
+				<li class="cat-item cat-item-1"><a href="index.html%3Fcat=1.html">Opiniões</a> (3)
 </li>
 	<li class="cat-item cat-item-9"><a href="index.html%3Fcat=9.html">Textos diversos</a> (3)
 </li>
@@ -473,7 +541,17 @@ var mantra_options = {"responsive":"1","image_class":"imageNone","equalize_sideb
 
 </div><!-- #wrapper -->
 
-<script type='text/javascript' src='wp-includes/js/wp-embed.min.js%3Fver=5.4'></script>
+	  	<div id="fb-root"></div>
+	  	<script><!--
+			(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.10&appId=1056050451422811';
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));//-->
+	  	</script>
+	  	<script type='text/javascript' src='wp-includes/js/wp-embed.min.js%3Fver=5.4'></script>
 
 </body>
 </html>

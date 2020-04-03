@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2&#038;cat=1" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog</description>
-	<lastBuildDate>Mon, 30 Mar 2020 11:23:11 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 03 Apr 2020 22:47:01 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,85 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4</generator>
 	<item>
+		<title>Os 3 tipos de programadores</title>
+		<link>http://localhost/aicoutos/?p=195</link>
+		
+		<dc:creator><![CDATA[Anderson Ismael]]></dc:creator>
+		<pubDate>Fri, 03 Apr 2020 22:21:26 +0000</pubDate>
+				<category><![CDATA[Opiniões]]></category>
+		<guid isPermaLink="false">http://localhost/aicoutos/?p=195</guid>
+
+					<description><![CDATA[Existem 3 tipos de programadores: O tecelão, o alfaiate e o vendedor. O tecelão O tecelão é o programador que tem um conhecimento profundo da linguagem pura, ele é o responsável por fazer as bibliotecas que são como o tecido. O alfaiate O alfaiate é o programador que apenas utiliza... <a class="continue-reading-link" href="http://localhost/aicoutos/?p=195"> Continue reading <span class="meta-nav">&#8594; </span></a>]]></description>
+										<content:encoded><![CDATA[
+<p>Existem 3 tipos de programadores: O tecelão, o alfaiate e o vendedor.</p>
+
+
+
+<h2>O tecelão</h2>
+
+
+
+<figure class="wp-block-gallery aligncenter columns-1 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="http://localhost/aicoutos/wp-content/uploads/2020/04/tecelão.jpg" alt="" data-id="199" data-full-url="http://localhost/aicoutos/wp-content/uploads/2020/04/tecelão.jpg" data-link="http://localhost/aicoutos/?attachment_id=199" class="wp-image-199" srcset="http://localhost/aicoutos/wp-content/uploads/2020/04/tecelão.jpg 960w, http://localhost/aicoutos/wp-content/uploads/2020/04/tecelão-300x156.jpg 300w, http://localhost/aicoutos/wp-content/uploads/2020/04/tecelão-768x400.jpg 768w, http://localhost/aicoutos/wp-content/uploads/2020/04/tecelão-150x78.jpg 150w, http://localhost/aicoutos/wp-content/uploads/2020/04/tecelão-250x130.jpg 250w" sizes="(max-width: 960px) 100vw, 960px" /></figure></li></ul><figcaption class="blocks-gallery-caption">O tecelão</figcaption></figure>
+
+
+
+<p>O tecelão é o programador que tem um conhecimento profundo da linguagem pura, ele é o responsável por fazer as bibliotecas que são como o tecido.</p>
+
+
+
+<h2>O alfaiate</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/04/alfaiate.jpg" alt="" class="wp-image-200" srcset="http://localhost/aicoutos/wp-content/uploads/2020/04/alfaiate.jpg 900w, http://localhost/aicoutos/wp-content/uploads/2020/04/alfaiate-300x200.jpg 300w, http://localhost/aicoutos/wp-content/uploads/2020/04/alfaiate-768x513.jpg 768w, http://localhost/aicoutos/wp-content/uploads/2020/04/alfaiate-150x100.jpg 150w, http://localhost/aicoutos/wp-content/uploads/2020/04/alfaiate-225x150.jpg 225w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption>O alfaiate</figcaption></figure></div>
+
+
+
+<p>O alfaiate é o programador que apenas utiliza tecidos prontos, cortando e juntando diferentes tipos de bibliotecas na forma de <em>frameworks</em> que são como as roupas.</p>
+
+
+
+<h2>O vendedor</h2>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large"><img src="http://localhost/aicoutos/wp-content/uploads/2020/04/vendedor.jpg" alt="" class="wp-image-201" srcset="http://localhost/aicoutos/wp-content/uploads/2020/04/vendedor.jpg 900w, http://localhost/aicoutos/wp-content/uploads/2020/04/vendedor-300x225.jpg 300w, http://localhost/aicoutos/wp-content/uploads/2020/04/vendedor-768x576.jpg 768w, http://localhost/aicoutos/wp-content/uploads/2020/04/vendedor-150x113.jpg 150w, http://localhost/aicoutos/wp-content/uploads/2020/04/vendedor-200x150.jpg 200w" sizes="(max-width: 900px) 100vw, 900px" /><figcaption>O vendedor</figcaption></figure></div>
+
+
+
+<p>O vendedor é o programador que apenas vende as roupas  prontas para os clientes. Bons vendedores tem um bom entendimento sobre diferentes tipos de <em>frameworks</em> e eventualmente até tem um conhecimento bastante profundo sobre diferentes tipos de tecido e técnicas de tecelagem, porém não costumam fabricar tecidos ou montar suas próprias roupas.</p>
+
+
+
+<p>E ai, que tipo de programador é você?</p>
+
+
+
+<p><strong>Créditos das imagens:</strong></p>
+
+
+
+<ul><li><a href="http://prayanika-thejourney.blogspot.com/2016/02/utsav-rock-garden-part-6-reflection-of.html" target="_blank" rel="noreferrer noopener">http://prayanika-thejourney.blogspot.com/2016/02/utsav-rock-garden-part-6-reflection-of.html</a></li></ul>
+
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "http://localhost/aicoutos/?p=195"
+			  	data-numposts = "10"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div>
+		  <style>
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  ]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Pugs Not Drugs</title>
 		<link>http://localhost/aicoutos/?p=111</link>
 		
@@ -35,7 +114,21 @@
 
 
 <p></p>
-]]></content:encoded>
+
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "http://localhost/aicoutos/?p=111"
+			  	data-numposts = "10"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div>
+		  <style>
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  ]]></content:encoded>
 					
 		
 		
@@ -139,7 +232,21 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 
 
 <h2></h2>
-]]></content:encoded>
+
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "http://localhost/aicoutos/?p=122"
+			  	data-numposts = "10"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div>
+		  <style>
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  ]]></content:encoded>
 					
 		
 		
