@@ -5,7 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:media="http://search.yahoo.com/mrss/">
 
 <channel>
 	<title>Trabalhos e estudos &#8211; Anderson Ismael</title>
@@ -182,7 +182,7 @@
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Usando o Screen em tarefas demoradas</title>
 		<link>http://localhost/aicoutos/?p=134</link>
@@ -239,7 +239,7 @@ ser encerrada.</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Pipelines no Linux</title>
 		<link>http://localhost/aicoutos/?p=136</link>
@@ -350,7 +350,7 @@ c</code></p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Como transferir um domínio em 6 passos</title>
 		<link>http://localhost/aicoutos/?p=138</link>
@@ -430,6 +430,6 @@ alterado para “pendingTransfer” durante a transferência.</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 	</channel>
 </rss>

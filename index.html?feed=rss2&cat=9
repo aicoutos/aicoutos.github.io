@@ -5,7 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:media="http://search.yahoo.com/mrss/">
 
 <channel>
 	<title>Textos diversos &#8211; Anderson Ismael</title>
@@ -165,7 +165,7 @@
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Do rigor na ciência</title>
 		<link>http://localhost/aicoutos/?p=190</link>
@@ -204,7 +204,7 @@
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>O elefante acorrentado</title>
 		<link>http://localhost/aicoutos/?p=187</link>
@@ -264,6 +264,6 @@ Que mistério! Por que o elefante não foge?</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 	</channel>
 </rss>

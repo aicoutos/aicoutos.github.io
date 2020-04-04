@@ -5,7 +5,7 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
+	xmlns:media="http://search.yahoo.com/mrss/">
 
 <channel>
 	<title>Anderson Ismael</title>
@@ -97,7 +97,7 @@
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/04/3-tipos-de-programador.jpg" length="260229" type="image/jpeg"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/04/3-tipos-de-programador.jpg" width="900" height="595" medium="image" type="image/jpeg"/>	</item>
 		<item>
 		<title>Desilusão</title>
 		<link>http://localhost/aicoutos/?p=192</link>
@@ -244,7 +244,7 @@
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Do rigor na ciência</title>
 		<link>http://localhost/aicoutos/?p=190</link>
@@ -283,7 +283,7 @@
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>O elefante acorrentado</title>
 		<link>http://localhost/aicoutos/?p=187</link>
@@ -343,7 +343,7 @@ Que mistério! Por que o elefante não foge?</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Pugs Not Drugs</title>
 		<link>http://localhost/aicoutos/?p=111</link>
@@ -378,7 +378,7 @@ Que mistério! Por que o elefante não foge?</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Matrix e as três principais visões científicas</title>
 		<link>http://localhost/aicoutos/?p=122</link>
@@ -496,7 +496,7 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Versões do PHP e do Laravel no Linux Mint e Ubuntu</title>
 		<link>http://localhost/aicoutos/?p=4</link>
@@ -660,7 +660,7 @@ verdadeiras (deduções) [9], do geral para o particular [10].</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Usando o Screen em tarefas demoradas</title>
 		<link>http://localhost/aicoutos/?p=134</link>
@@ -717,7 +717,7 @@ ser encerrada.</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Pipelines no Linux</title>
 		<link>http://localhost/aicoutos/?p=136</link>
@@ -828,7 +828,7 @@ c</code></p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 		<item>
 		<title>Como transferir um domínio em 6 passos</title>
 		<link>http://localhost/aicoutos/?p=138</link>
@@ -908,6 +908,6 @@ alterado para “pendingTransfer” durante a transferência.</p>
 					
 		
 		
-			</item>
+		<enclosure url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" length="214385" type="image/png"/><media:content url="http://localhost/aicoutos/wp-content/uploads/2020/03/pugs-no-drugs-vectorized.png" width="625" height="800" medium="image" type="image/png"/>	</item>
 	</channel>
 </rss>
