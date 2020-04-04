@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/aicoutos/?feed=rss2" rel="self" type="application/rss+xml" />
 	<link>http://localhost/aicoutos</link>
 	<description>Blog pessoal</description>
-	<lastBuildDate>Fri, 03 Apr 2020 22:59:22 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 04 Apr 2020 02:10:50 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -66,7 +66,7 @@
 
 
 
-<p>O vendedor é o programador que apenas vende as roupas  prontas para os clientes. Bons vendedores tem um bom entendimento sobre diferentes tipos de <em>frameworks</em> e CMSs e eventualmente até tem um conhecimento bastante profundo sobre diferentes tipos de tecido e técnicas de tecelagem, porém não costumam fabricar tecidos ou montar suas próprias roupas.</p>
+<p>O vendedor é o programador que apenas vende as roupas  prontas para os clientes. <br><br>Bons vendedores tem um bom entendimento sobre diferentes tipos de roupas (<em>frameworks</em> e <em>CMSs</em>) e tecidos (bibliotecas), mesmo assim costumam no máximo customizar uma roupa pronta adicionando por exemplo uma estampa ou apenas selecionando o tamanho, o modelo e tipo de tecido de acordo com as exigências do cliente.<br><br>Eventualmente eles até tem um conhecimento bastante profundo sobre diferentes tipos de tecido e técnicas de tecelagem, porém o programador vendedor não costumam fabricar tecidos ou montar suas próprias roupas.</p>
 
 
 
